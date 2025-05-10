@@ -1,4 +1,4 @@
-# Casting Data
+# Materi Casting Data
 
 # Casting Data = mengubah tipe data suatu nilai menjadi tipe data yang lain secara sengaja
 
@@ -43,8 +43,8 @@ print("Nilai Float menjadi Boolean", data_bool, type(data_bool)) # jika angka se
 print("=====[String]=====")
 
 # buat data awal ( string )
-data_str = "0" # Ini Type String namun berupa menjadi tesk
 print("Nilai data_str adalah", data_str, type(data_str))
+data_str = "0" # Ini Type String namun berupa menjadi tesk
 
 # String to Integer
 data_int = int(data_str) 
